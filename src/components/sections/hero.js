@@ -66,9 +66,9 @@ const Hero = () => {
     <>
       <p>
         I’m a full-stack web developer who builds responsive, accessible, and user-friendly web applications. Right now, I’m focused on delivering custom solutions for clients that combine performance, design, and functionality.{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
-        </a>
+        </a> */}
         .
       </p>
     </>
